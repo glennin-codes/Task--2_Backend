@@ -1,5 +1,24 @@
 # User Authentication API Documentation
 
+### Running the Application
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/glennin-codes/Task--2_Backend.git
+   cd  Task--2_backend
+   ```
+or download this zip file
+```
+cd into task--2_backend
+
+```
+2. To run 
+```
+npm i
+npm run dev
+
+```
+
 ## 1. Register a New User
 
 **Endpoint:** `POST /api/users/register`
